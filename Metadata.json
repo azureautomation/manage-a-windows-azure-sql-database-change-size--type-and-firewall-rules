@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 4486,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/manage-a-windows-azure-sql-database-change-size,-type-and-firewall-rules/master/ManageSQLDatabaseFirewall.ps1",
+    "DownloadCount": 2190,
+    "Id": "Manage-a-Windows-Azure-SQL-02b399f0",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 319,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Script will walk you through changing size and type of a database along with setting and removing firewall rules",
+    "Title": "Manage a Windows Azure SQL Database - Change Size, Type and Firewall Rules",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/manage-a-windows-azure-sql-database-change-size,-type-and-firewall-rules",
+    "UserTags": "Capacity Management"
+}
